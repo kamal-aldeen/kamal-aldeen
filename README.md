@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Kamal AL-Deen👋
 
 I'm currently learning **SOC Analysis** and building my foundation in cybersecurity.  
 This GitHub is where I document my progress, notes, and small projects as I go.
