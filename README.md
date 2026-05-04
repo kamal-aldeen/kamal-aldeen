@@ -71,3 +71,43 @@ This section will include:
 ---
 
 ## 📁 Repository Structure
+
+
+---
+
+## 🚀 Learning Approach
+
+- Solving real SOC alerts daily  
+- Practicing log analysis using Event Viewer  
+- Investigating suspicious activities step-by-step  
+- Writing structured reports for each case  
+
+---
+
+## 📈 Current Progress
+
+- ✔ Understanding authentication logs (4624 / 4625)
+- ✔ Detecting brute force attacks
+- ✔ Basic phishing analysis
+- ⏳ Working on deeper log correlation & SIEM usage
+
+---
+
+## 🎯 Future Goals
+
+- Master SIEM tools (Splunk / ELK)
+- Improve incident response skills
+- Work as a SOC Analyst (L1)
+- Transition to advanced blue team roles
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+
+---
+
+⭐ *This repository reflects my continuous learning journey in cybersecurity and SOC analysis.*
