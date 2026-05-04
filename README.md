@@ -25,7 +25,9 @@ This GitHub is where I document my progress, notes, and small projects as I go.
 
 ## 📂 Projects
 
-> Still early in my journey — projects will be added here as I build them.
+| Project | Description |
+|--------|-------------|
+| [soc-reports](https://github.com/kamal-aldeen/soc-reports) | SOC analysis notes and reports |
 
 ---
 
