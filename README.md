@@ -1,35 +1,59 @@
-# Hi, I'm Kamal AL-Deen 👋
+# 🛡️ SOC Analyst Journey
 
-I'm currently learning **SOC Analysis** and building my foundation in cybersecurity.  
-This GitHub is where I document my progress, notes, and small projects as I go.
-
----
-
-## 🎯 What I'm Focusing On Right Now
-
-- Log analysis (Windows Event Logs)
-- Understanding how SIEM tools work (Splunk / ELK)
-- Network traffic basics with Wireshark
-- Working through the **SOC Level 1** path on TryHackMe
+## 👨‍💻 About Me
+I am a cybersecurity learner focused on becoming a SOC (Security Operations Center) Analyst.  
+I am building my skills through hands-on practice by analyzing real-world alerts, investigating logs, and understanding attack patterns.
 
 ---
 
-## 🛠️ Tools I'm Getting Familiar With
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-
----
-
-## 📂 Projects
-
-> Still early in my journey — projects will be added here as I build them.
+## 🎯 Objective
+My goal is to gain practical experience in:
+- Log Analysis
+- Incident Response
+- Threat Detection
+- Security Monitoring
 
 ---
 
-## 📫 Connect With Me
+## 🧠 Skills
+- Log Analysis (Windows Event Logs)
+- SIEM Basics
+- Networking Fundamentals
+- Incident Investigation
+- Threat Intelligence (basic usage)
+- Linux & Windows Basics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+---
+
+## 🛠️ Tools & Platforms
+- LetsDefend
+- Event Viewer (Windows)
+- VirusTotal
+- Linux VM
+- Browser-based investigation
+
+---
+
+## 🔍 Sample Case Analysis
+
+### 🚨 Case: Brute Force Attack (RDP)
+
+**Scenario:**
+Multiple failed login attempts followed by a successful login from an external IP address.
+
+**Findings:**
+- Event ID 4625 → Failed logins
+- Event ID 4624 → Successful login
+- Logon Type 10 → Remote Interactive (RDP)
+- Source IP: Suspicious external address
+
+**Analysis:**
+The attacker attempted multiple logins using different credentials (brute force).  
+Eventually, a valid account was compromised.
+
+**Conclusion:**
+🔴 Malicious Activity (Confirmed Compromise)
+
+---
+
+## 📁 Repository Structure
