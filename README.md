@@ -57,3 +57,33 @@ Eventually, a valid account was compromised.
 ---
 
 ## 📁 Repository Structure
+
+
+---
+
+## 🚀 Learning Approach
+- Solving real SOC alerts daily
+- Practicing log analysis using Event Viewer
+- Investigating suspicious activities step by step
+- Writing structured reports for each case
+
+---
+
+## 📈 Current Focus
+- Authentication logs (Event IDs 4624 / 4625)
+- Brute force detection
+- Phishing analysis
+- Process monitoring (Event ID 4688)
+
+---
+
+## 📌 Future Goals
+- Master SIEM tools
+- Improve incident response skills
+- Work as a SOC Analyst (L1)
+
+---
+
+## 🤝 Connect
+I am actively learning and open to opportunities and collaboration in cybersecurity.
+
